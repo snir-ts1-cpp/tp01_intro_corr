@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TP1_Introduction",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01-helloWorld::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01-helloWorld-Debug-6050c9867f68739732e4.json",
+					"name" : "01-helloWorld",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02-affichageNombres::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02-affichageNombres-Debug-aa2dbbc85052a77061c2.json",
+					"name" : "02-affichageNombres",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03-addition::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03-addition-Debug-2da7a256f25d65aa2298.json",
+					"name" : "03-addition",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04-quotientReste::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04-quotientReste-Debug-031d09bd4150e30274da.json",
+					"name" : "04-quotientReste",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05-tailleVariable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05-tailleVariable-Debug-891fb4abdbc8448a5ed3.json",
+					"name" : "05-tailleVariable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06-echangeNombres::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06-echangeNombres-Debug-b3f380c8237f4ea827ce.json",
+					"name" : "06-echangeNombres",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07-codeASCII::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07-codeASCII-Debug-0e46382fd928318f167f.json",
+					"name" : "07-codeASCII",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08-multiplication::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08-multiplication-Debug-9737af033653837672b2.json",
+					"name" : "08-multiplication",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TP1_Introduction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TP1_Introduction-Debug-d93c88eb24cfd4c281b7.json",
+					"name" : "TP1_Introduction",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/joris/Documents/Enseignements/1SNIR/TP1_introCpp/TP1-projClion_CORR/cmake-build-debug",
+		"source" : "/Users/joris/Documents/Enseignements/1SNIR/TP1_introCpp/TP1-projClion_CORR"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
